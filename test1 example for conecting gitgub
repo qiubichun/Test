@@ -1,4 +1,16 @@
 test1 example for conecting gitgub
 1
+<<<<<<< HEAD
 222222222222222222222
 hdshjsdhjsdhjdshjsdhj
+=======
+into te1
+back to location te1
+2
+go github te1 
+again back to location te1
+into github te2
+
+3
+into github again
+>>>>>>> 1a27bf1de29b2fc4ca141a70973621fa77ecb28f
